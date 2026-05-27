@@ -40,9 +40,26 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+<img width="1087" height="526" alt="Screenshot 2026-05-27 122422" src="https://github.com/user-attachments/assets/2282cd6a-b7e0-4db4-a5aa-01c3968cddf1" />
+
+<img width="1092" height="540" alt="Screenshot 2026-05-27 122431" src="https://github.com/user-attachments/assets/bcfd151e-adb9-49d2-9321-d135da98c8f7" />
+
+<img width="1084" height="558" alt="Screenshot 2026-05-27 122441" src="https://github.com/user-attachments/assets/0752b47c-f9ee-470c-8e55-d05a43ab1df9" />
+
+<img width="1095" height="579" alt="Screenshot 2026-05-27 122447" src="https://github.com/user-attachments/assets/7daca154-8f6d-4028-8582-81de10e85d0a" />
+
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
+
+<img width="1084" height="587" alt="Screenshot 2026-05-27 122607" src="https://github.com/user-attachments/assets/bb381496-3069-48ae-84ce-77e4f0a48e35" />
+
+<img width="1081" height="570" alt="Screenshot 2026-05-27 122615" src="https://github.com/user-attachments/assets/38a91b9c-c363-49e6-9efe-4cf102f12ed1" />
+
+<img width="1066" height="591" alt="Screenshot 2026-05-27 122635" src="https://github.com/user-attachments/assets/bf964c72-ff0e-4383-8d53-5d71b28eba53" />
+
+<img width="1083" height="552" alt="Screenshot 2026-05-27 122644" src="https://github.com/user-attachments/assets/02218a35-6f34-47c7-80c3-cb0bb3fd402a" />
 
 Tabulation:2
 
